@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "FUNNEL",
+  "CAMPAIGN",
+  "SEO",
+  "LEADS",
+  "AB-TEST",
+  "UTM",
+  "COHORT",
+  "EMAIL",
+  "CONVERT",
+  "SEGMENT",
+  "LANDING",
+  "CTR",
+  "ROAS",
+  "ATTRIBUTION",
+  "CRM",
+  "GROWTH"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Marketing",
+  "Tools"
+ ],
+ "title_size": 88,
+ "sub1": "EMAIL  |  ANALYTICS  |  SEO",
+ "sub2": "LANDING PAGES  |  CRM  |  GROWTH",
+ "foot": "Open-source marketing software, each checked for license and activity"
+}

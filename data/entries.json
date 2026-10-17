@@ -1,0 +1,394 @@
+[
+  {
+    "repo": "dgtlmoon/changedetection.io",
+    "category": "ads",
+    "description": "Watch web pages for changes, self-hosted.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "dubinc/dub",
+    "category": "ads",
+    "description": "Open-source link management and short links with analytics.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "shlinkio/shlink",
+    "category": "ads",
+    "description": "Self-hosted URL shortener with visit tracking.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "YOURLS/YOURLS",
+    "category": "ads",
+    "description": "Self-hosted URL shortener with stats.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "AgriciDaniel/claude-blog",
+    "category": "ai",
+    "description": "Claude Code skills for writing blog content.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "firecrawl/firecrawl",
+    "category": "ai",
+    "description": "Turn websites into clean data for language models.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "category": "ai",
+    "description": "Framework for building applications with language models.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "langgenius/dify",
+    "category": "ai",
+    "description": "Platform for building LLM apps with workflows and RAG.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "category": "ai",
+    "description": "Workflow automation with AI nodes. Fair-code license, check terms.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "category": "ai",
+    "description": "Self-hosted web interface for local and hosted language models.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "apache/superset",
+    "category": "analytics",
+    "description": "Data exploration and dashboard platform.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "matomo-org/matomo",
+    "category": "analytics",
+    "description": "Full web analytics platform you can self-host.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "metabase/metabase",
+    "category": "analytics",
+    "description": "Business intelligence and dashboards for your data.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Openpanel-dev/openpanel",
+    "category": "analytics",
+    "description": "Open-source web and product analytics.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "plausible/analytics",
+    "category": "analytics",
+    "description": "Simple, privacy-friendly web analytics you can self-host.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "PostHog/posthog",
+    "category": "analytics",
+    "description": "Product analytics, session replay, feature flags and experiments.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "umami-software/umami",
+    "category": "analytics",
+    "description": "Privacy-focused web analytics.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "espocrm/espocrm",
+    "category": "crm",
+    "description": "Open-source CRM platform you can self-host.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "frappe/crm",
+    "category": "crm",
+    "description": "Open-source CRM built on the Frappe framework.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jitsucom/jitsu",
+    "category": "crm",
+    "description": "Open-source event collection and customer data pipeline.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "monicahq/monica",
+    "category": "crm",
+    "description": "Personal CRM to remember details about people you know.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "rudderlabs/rudder-server",
+    "category": "crm",
+    "description": "Open-source customer data pipeline and Segment alternative.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "SuiteCRM/SuiteCRM",
+    "category": "crm",
+    "description": "Open-source CRM for sales, marketing and support.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "twentyhq/twenty",
+    "category": "crm",
+    "description": "Modern open-source CRM, a community alternative to Salesforce.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "documenso/documenso",
+    "category": "email",
+    "description": "Open-source document signing platform.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "knadh/listmonk",
+    "category": "email",
+    "description": "Self-hosted newsletter and mailing list manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "maizzle/framework",
+    "category": "email",
+    "description": "Build HTML emails with Tailwind CSS.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mautic/mautic",
+    "category": "email",
+    "description": "Open-source marketing automation for email, forms and campaigns.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "mjmlio/mjml",
+    "category": "email",
+    "description": "Markup language that makes responsive email easy.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "phpList/phplist3",
+    "category": "email",
+    "description": "Open-source newsletter and email campaign manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "postalserver/postal",
+    "category": "email",
+    "description": "Open-source mail delivery platform for incoming and outgoing email.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "resend/react-email",
+    "category": "email",
+    "description": "Build and send emails with React.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "usesend/useSend",
+    "category": "email",
+    "description": "Open-source alternative to Resend and SendGrid for sending email.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "chatwoot/chatwoot",
+    "category": "growth",
+    "description": "Open-source customer messaging and live chat platform.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "novuhq/novu",
+    "category": "growth",
+    "description": "Open-source notification infrastructure for email, SMS, push and in-app.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "formbricks/formbricks",
+    "category": "landing",
+    "description": "Open-source survey and experience management platform.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "GrapesJS/grapesjs",
+    "category": "landing",
+    "description": "Open-source web builder framework for landing pages and templates.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "heyform/heyform",
+    "category": "landing",
+    "description": "Open-source form builder for surveys and quizzes.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "LimeSurvey/LimeSurvey",
+    "category": "landing",
+    "description": "Open-source survey tool.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "puckeditor/puck",
+    "category": "landing",
+    "description": "Open-source visual editor for React for building pages.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "apify/crawlee",
+    "category": "seo",
+    "description": "Web scraping and crawling library for Node.js.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "eliasdabbas/advertools",
+    "category": "seo",
+    "description": "Python tools for online marketing: crawling, sitemaps, robots.txt, SERP and text analysis.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-30"
+  },
+  {
+    "repo": "GoogleChrome/lighthouse",
+    "category": "seo",
+    "description": "Automated audits for performance, accessibility and SEO.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "searxng/searxng",
+    "category": "seo",
+    "description": "Privacy-respecting metasearch engine.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "sitespeedio/sitespeed.io",
+    "category": "seo",
+    "description": "Measure web performance with a command-line tool and dashboards.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "Flagsmith/flagsmith",
+    "category": "testing",
+    "description": "Open-source feature flag and remote config service.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "flipt-io/flipt",
+    "category": "testing",
+    "description": "Open-source, Git-native feature flag management.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "growthbook/growthbook",
+    "category": "testing",
+    "description": "Feature flags and A/B testing with a warehouse-native approach.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Unleash/unleash",
+    "category": "testing",
+    "description": "Open-source feature management platform.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  }
+]
